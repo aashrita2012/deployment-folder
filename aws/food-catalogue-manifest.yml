@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
         - name: foodcatalogueapp
-          image: codedecode25/food-catalogue-service:7
+          image: veerendra1976/food-catalogue-service:3
           imagePullPolicy: Always
           ports:
             - containerPort: 9092 #
