@@ -6,7 +6,7 @@ data:
   restaurantdb_url: jdbc:mysql://food-delivery-db.ct1jcdliixad.us-east-1.rds.amazonaws.com:3306/restaurantdb
   foodcataloguedb_url: jdbc:mysql://food-delivery-db.ct1jcdliixad.us-east-1.rds.amazonaws.com:3306/foodcataloguedb
   userdb_url: jdbc:mysql://food-delivery-db.ct1jcdliixad.us-east-1.rds.amazonaws.com:3306/userdb
-  orderdb_url: mongodb+srv://admin:*****@atlas-cluster.cvegnjk.mongodb.net/?retryWrites=true&w=majority
+  orderdb_url: mongodb+srv://admin:Welcome@1234@atlas-cluster.cvegnjk.mongodb.net/
   eureka_service_address: http://eureka-0.eureka-service:8761/eureka
 
   
